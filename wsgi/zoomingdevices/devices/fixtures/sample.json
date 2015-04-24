@@ -1,0 +1,132 @@
+[
+{
+    "model": "devices.device",
+    "pk": 1,
+    "fields": {
+        "view_range": "2000.00",
+        "device_name": "Integrated Observation Equipment",
+        "magnification": "7.00",
+        "field_of_view": "7.00"
+    }
+},
+{
+    "model": "devices.device",
+    "pk": 2,
+    "fields": {
+        "view_range": "500.00",
+        "device_name": "Passive Night Vision Binocular (Mk-I)",
+        "magnification": "4.00",
+        "field_of_view": "10.00"
+    }
+},
+{
+    "model": "devices.device",
+    "pk": 3,
+    "fields": {
+        "view_range": "225.00",
+        "device_name": "Passive Night Vision Goggles",
+        "magnification": "1.00",
+        "field_of_view": "40.00"
+    }
+},
+{
+    "model": "devices.device",
+    "pk": 4,
+    "fields": {
+        "view_range": "500.00",
+        "device_name": "Passive Night Sight for 84 mm Carl",
+        "magnification": "4.00",
+        "field_of_view": "10.00"
+    }
+},
+{
+    "model": "devices.device",
+    "pk": 5,
+    "fields": {
+        "view_range": "200.00",
+        "device_name": "Passive Night Sight for 5.56 mm Rifle",
+        "magnification": "4.00",
+        "field_of_view": "10.00"
+    }
+},
+{
+    "model": "devices.device",
+    "pk": 6,
+    "fields": {
+        "view_range": "200.00",
+        "device_name": "Passive Night Sight for 5.56 mm LMG",
+        "magnification": "4.00",
+        "field_of_view": "10.00"
+    }
+},
+{
+    "model": "devices.device",
+    "pk": 7,
+    "fields": {
+        "view_range": "600.00",
+        "device_name": "Passive Night Sight RCL Mk I",
+        "magnification": "5.00",
+        "field_of_view": "10.00"
+    }
+},
+{
+    "model": "devices.device",
+    "pk": 8,
+    "fields": {
+        "view_range": "600.00",
+        "device_name": "Passive Night Sight RCL Mk II",
+        "magnification": "6.00",
+        "field_of_view": "9.00"
+    }
+},
+{
+    "model": "devices.device",
+    "pk": 9,
+    "fields": {
+        "view_range": "100.00",
+        "device_name": "Driver Sight for T-55",
+        "magnification": "1.00",
+        "field_of_view": "40.00"
+    }
+},
+{
+    "model": "devices.device",
+    "pk": 10,
+    "fields": {
+        "view_range": "800.00",
+        "device_name": "Gunners Night Sight for T-55",
+        "magnification": "7.00",
+        "field_of_view": "7.00"
+    }
+},
+{
+    "model": "devices.device",
+    "pk": 11,
+    "fields": {
+        "view_range": "4000.00",
+        "device_name": "Balloon Lifted Imaging & Surveillance",
+        "magnification": null,
+        "field_of_view": "2.10"
+    }
+},
+{
+    "model": "devices.device",
+    "pk": 12,
+    "fields": {
+        "view_range": "250.00",
+        "device_name": "Goggles for Aireforce",
+        "magnification": "1.00",
+        "field_of_view": "40.00"
+    }
+},
+{
+    "model": "devices.device",
+    "pk": 13,
+    "fields": {
+        "view_range": "700.00",
+        "device_name": "Sight for 84 Mm",
+        "magnification": "5.50",
+        "field_of_view": "8.00"
+    }
+}
+]
